@@ -2,11 +2,7 @@
 # title: Welcome to my exciting blog!
 ---
 # content
-1. first
+1. [First-post](/skills-github-pages/2026/10/08/First-post.html)
 2. second
 3. third
 
-# next nlvl 1
-## next title level2
-- [ ] task 1
-- [ ] task 2
